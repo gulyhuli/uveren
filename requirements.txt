@@ -22,7 +22,7 @@ memoize==1.0.0
 mypy==0.560
 mysql-connector==2.1.6
 numpy==1.14.1
-opencv-python==3.4.0.12
+opencv-python==4.2.0.32
 parso==0.1.1
 peewee==3.0.11
 pep8==1.7.1
